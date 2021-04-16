@@ -1,3 +1,6 @@
+http://blynk-cloud.com/MfiQ5B-hBD9XZymdD1Xa1WdsEqVGfopd/get/v12
+http://blynk-cloud.com/MfiQ5B-hBD9XZymdD1Xa1WdsEqVGfopd/data/v12
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/romanr00000/site/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
