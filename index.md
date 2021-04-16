@@ -1,5 +1,4 @@
 http://blynk-cloud.com/MfiQ5B-hBD9XZymdD1Xa1WdsEqVGfopd/get/v12
-http://blynk-cloud.com/MfiQ5B-hBD9XZymdD1Xa1WdsEqVGfopd/data/v12
 
 ## Welcome to GitHub Pages
 
